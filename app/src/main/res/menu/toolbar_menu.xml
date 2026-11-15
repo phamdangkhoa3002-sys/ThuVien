@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuTimKiem"
+        android:title="Tìm kiếm sách" />
+
+    <item
+        android:id="@+id/menuLoc"
+        android:title="Lọc danh sách sách" />
+
+    <item
+        android:id="@+id/menuThoat"
+        android:title="Thoát chương trình" />
+
+</menu>
